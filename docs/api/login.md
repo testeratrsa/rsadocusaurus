@@ -1,4 +1,4 @@
-﻿---
+---
 id : login
 title :  RBF3 API Documentation
 sidebar_label : RBF3 API
